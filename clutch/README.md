@@ -13,7 +13,7 @@
 4. [ ] Driveshaft
     - ![Drive Shaft Removal](./img/driveShaftRemoval.JPG)
 5. [ ] Powerplant Frame (Not common in most cars)
-    - ![Power Plant Frame](./img/img/powerPlantFrame.JPG)
+    - ![Power Plant Frame](./img/powerPlantFrame.JPG)
 6. [ ] Slave Cylinder
     - ![Slave Cylinder Removal](./img/slaveCylinderRemoval.JPG)
 7. [ ] Transmission
