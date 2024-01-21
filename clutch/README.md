@@ -1,6 +1,9 @@
 # Clutch Upgrade Guide
 > Broken down, step-by-step from Donut's [Miata Clutch Upgrade Video](https://www.youtube.com/watch?v=Jnfkdm_wGAs)
 
+## NOTE!
+also do the master/slave cylinders - this is a [guide](http://wiki.miata.net/tiki-index.php?page=Replacing+the+Slave+Cylinder)
+
 ## Parts list
 - [ ] Clutch
 - [ ] Transmission Fluid
