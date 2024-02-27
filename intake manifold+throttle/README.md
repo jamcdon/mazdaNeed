@@ -18,6 +18,10 @@
 6. [ ] intake manifold bracked
     - ![intake manifold bracket](./img/intake-manifold-bracket.JPG)
 7. [ ] intake manifold removal
+    - lower intake manifold removal comment (youtube)
+        - On mine (1995 1.8L) all the lower bolts were 12 mm, but huge thanks because that combo of the 1 inch + 4 inch extension did the trick and I got all the bottom bolts in no time!
+    - [lower removal](https://youtu.be/DehBEOM7gyw?si=1hV9kyer-9qx2ndE&t=472)
+    - ![extension on lower bolts](./img/extension-on-lower-bolts.JPG)
     - ![intake manifold removal](./img/intake-manifold-removal.JPG)
 
 ## install 
