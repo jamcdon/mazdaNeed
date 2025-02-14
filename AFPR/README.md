@@ -7,17 +7,17 @@
 ## Steps
 1. [ ] Remove fuel pump relay, start car and remove gas from lines
 2. [ ] Remove access panels
-    - ![Fuel Access Panels](img/fuelAccessPanels.png)
+    - ![Fuel Access Panels](img/fuelAccessPanels.PNG)
 3. [ ] Remove fuel lines
     - ![Removed Lines](img/removedLines.PNG)
 4. [ ] Remove tank cover
-    - ![Removing tank cover](img/tankCoverRemoval.png)
+    - ![Removing tank cover](img/tankCoverRemoval.PNG)
 5. [ ] Remove Fuel pump
-    - ![Fuel Pump Removal](img/fuelPumpRemoval.png)
+    - ![Fuel Pump Removal](img/fuelPumpRemoval.PNG)
 6. [ ] Remove screw from assembly
-    - ![Screw Removal](img/screwRemoval.png)
+    - ![Screw Removal](img/screwRemoval.PNG)
 7. [ ] Pull out the pump, may require some wiggling and rotation
-    - ![Pump Removal](img/pumpRemoval.png)
+    - ![Pump Removal](img/pumpRemoval.PNG)
 8. [ ] Remove two clamps from fuel pump assembly
     - ![Clamp Removal](img/clampRemoval.PNG)
 9. [ ] Remove wiring from pump assembly
